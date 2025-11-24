@@ -74,7 +74,7 @@ export default function Boundaries() {
   return (
     <Layout>
       <Head>
-        <title>Boundary Settings - Dog Boundary Tracker</title>
+        <title>Boundary Settings - PetTrack</title>
       </Head>
 
       <motion.div

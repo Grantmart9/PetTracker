@@ -72,7 +72,7 @@ export default function NewDog() {
   return (
     <Layout>
       <Head>
-        <title>Add New Dog - Dog Boundary Tracker</title>
+        <title>Add New Dog - PetTrack</title>
       </Head>
 
       <motion.div

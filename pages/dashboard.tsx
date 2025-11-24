@@ -59,7 +59,7 @@ export default function Dashboard() {
   return (
     <Layout>
       <Head>
-        <title>Dashboard - Dog Boundary Tracker</title>
+        <title>Dashboard - PetTrack</title>
       </Head>
 
       <motion.div

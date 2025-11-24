@@ -7,13 +7,16 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Dog Boundary Tracker</title>
+        <title>PetTrack</title>
         <meta
           name="description"
           content="Track your dog's location and set boundaries"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       </Head>
 
       <Background3D />
@@ -32,7 +35,7 @@ export default function Home() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-6xl md:text-7xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent mb-6"
             >
-              Dog Boundary Tracker
+              PetTrack
             </motion.h1>
 
             <motion.p

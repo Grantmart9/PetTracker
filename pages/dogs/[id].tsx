@@ -266,7 +266,7 @@ export default function DogDetail() {
   return (
     <Layout>
       <Head>
-        <title>{dog.name} - Dog Boundary Tracker</title>
+        <title>{dog.name} - PetTrack</title>
       </Head>
 
       <motion.div

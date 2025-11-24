@@ -139,7 +139,7 @@ export default function Notifications() {
   return (
     <Layout>
       <Head>
-        <title>Notifications - Dog Boundary Tracker</title>
+        <title>Notifications - PetTrack</title>
       </Head>
 
       <motion.div
